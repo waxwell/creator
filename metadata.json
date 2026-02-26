@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Creative Gen",
+  "description": "An AI-powered tool to analyze interactive gameplay and user characteristics, then generate new creative gameplay concepts and code.",
+  "requestFramePermissions": []
+}
